@@ -1,0 +1,30 @@
+:Title Редактор элементов
+1 Основные сведения
+2 Краткое описание=ID_MAIN
+1 Работа с редактором
+2 Организация работы с редактором=ID_ORG_WORK
+2 Создание компонентов=ID_CREATE_COMPONENT
+2 Рисование фигур=ID_PAINT_FIGURE
+2 Фигуры и их маркеры=ID_SELECT_FIGURE
+1 Свойства
+2 Свойства фигур=ID_PROP
+2 Графические свойства=ID_PROP_GRAPH
+2 Физические свойства=ID_PROP_FYS
+2 Дополнительные свойства=ID_PROP_ADD
+1 Меню
+2 Список меню=ID_MENU
+2 Меню: Файл=ID_MENU_FILE
+2 Меню: Правка=ID_MENU_EDIT
+2 Меню: Вид=ID_MENU_VIEW
+2 Меню: Компонент=ID_MENU_COMPONENT
+2 Меню: Справка=ID_MENU_HELP
+1 Панели инструментов
+2 Список панелей=ID_TOOLBAR
+2 Панель: Основная=ID_TOOLBAR_BASE
+2 Панель: Фигуры=ID_TOOLBAR_FIGURE
+1 Разное
+2 Комбинации клавиш=ID_KEY
+2 Ограничения=ID_RESTRICT
+2 Требоания к обеспечению=ID_REQUIREMENTS
+2 Разработчик=ID_DEVELOPER
+1 Глоссарий=ID_GLOSS
